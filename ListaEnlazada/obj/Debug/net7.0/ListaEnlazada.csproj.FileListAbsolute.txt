@@ -1,0 +1,15 @@
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\net7.0\ListaEnlazada.exe
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\net7.0\ListaEnlazada.deps.json
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\net7.0\ListaEnlazada.runtimeconfig.json
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\net7.0\ListaEnlazada.dll
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\net7.0\ListaEnlazada.pdb
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ListaEnlazada.csproj.AssemblyReference.cache
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ListaEnlazada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ListaEnlazada.AssemblyInfoInputs.cache
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ListaEnlazada.AssemblyInfo.cs
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ListaEnlazada.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ListaEnlazada.dll
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\refint\ListaEnlazada.dll
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ListaEnlazada.pdb
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ListaEnlazada.genruntimeconfig.cache
+D:\Projects\C#\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\net7.0\ref\ListaEnlazada.dll
